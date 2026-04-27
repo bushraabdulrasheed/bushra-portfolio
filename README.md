@@ -1,17 +1,6 @@
 # Bushra Abdul Rasheed
 **Web Developer · 3.5 years · WordPress, Shopify, Framer, Wix**
 
-<div align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-
 ### 14+ PROJECTS | 3.5 YEARS EXP. | 4 PLATFORMS
 
 ---
